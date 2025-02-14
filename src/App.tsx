@@ -2,7 +2,7 @@ import "./App.css";
 import ProductList from "./components/ProductList";
 import UsingState from "./states/UsingState";
 import LifeCycle from "./Lifecycle/Lifecycle";
-import UnmountDemo from "./states/UnmountDemo";
+import UnmountDemo from "./Lifecycle/UnmountDemo";
 
 function App() {
   return (
